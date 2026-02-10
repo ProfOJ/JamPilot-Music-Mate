@@ -1,0 +1,7 @@
+{
+  "name": "JamPilot Music Mate",
+  "description": "An interactive AI-powered play-along band. Toggle between a detailed setup form and a cinematic live stage. Click instruments to select them and the microphone to start jamming with Gemini-powered real-time key detection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
